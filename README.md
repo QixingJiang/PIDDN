@@ -15,4 +15,4 @@ To use our code, please install the mmdetection 2.23.0 as the link: https://gith
 > cd PIDDN
 > sh tools/test_3090.sh
 ## Visulization
-read [PIDDN/tools/test_mulframe.py](PIDDN/tools/test_mulframe.py)
+read [PIDDN/tools/test_mulframe.py](PIDDN/tools/test_mulframe.py) for more details.
