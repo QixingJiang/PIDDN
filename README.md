@@ -10,9 +10,9 @@ To use our code, please install the mmdetection 2.23.0 as the link: https://gith
 
 ## Training
 > cd PIDDN
-sh tools/train_3090.sh
+> sh tools/train_3090.sh
 ## Evaluation 
 > cd PIDDN
-sh tools/test_3090.sh
+> sh tools/test_3090.sh
 ## Visulization
 read [PIDDN/tools/test_mulframe.py](PIDDN/tools/test_mulframe.py)
