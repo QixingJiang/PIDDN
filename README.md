@@ -5,6 +5,7 @@ The codebase of paper "PIDDN: Pair-Image Defect Detection Network with Template 
 To use our code, please install the mmdetection 2.23.0 as the link: https://github.com/open-mmlab/mmdetection/tree/v2.23.0
 
 ## Training
+
 ```shell
 cd PIDDN
 sh tools/train_3090.sh
@@ -16,6 +17,13 @@ sh tools/test_3090.sh
 ```
 ## Visulization
 read [PIDDN/tools/test_mulframe.py](PIDDN/tools/test_mulframe.py) for more details.
+
+
+## TODO
+- [ ] Release the DeepPCB-mulframe annotation files.
+- [ ] Release the model of DeepPCB-mulframe dataset.
+- [ ] Release the train logs.
+
 
 ## Citation
 If you find this project useful in your research, please consider cite:
